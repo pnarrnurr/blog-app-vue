@@ -1,4 +1,4 @@
-# project-planner
+# blog
 
 ## Project setup
 ```
